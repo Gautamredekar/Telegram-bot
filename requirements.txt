@@ -1,0 +1,7 @@
+python-telegram-bot==13.15
+openpyxl
+urllib3==1.26.18
+setuptools
+six
+certifi
+tornado==6.1
